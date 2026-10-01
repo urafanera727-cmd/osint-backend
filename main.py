@@ -1,4 +1,5 @@
-ion — License Key Backend
+"""
+OSINT Station — License Key Backend
 Система лицензионных ключей.
 
 Endpoints:
